@@ -3,3 +3,4 @@
 -1 bulbo de hinojo
 -1 par de patatas de siembra
 -Nuevo registro
+Último registro
